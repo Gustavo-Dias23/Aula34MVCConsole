@@ -1,0 +1,13 @@
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.exe
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.deps.json
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.runtimeconfig.json
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.runtimeconfig.dev.json
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.dll
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.pdb
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.csprojAssemblyReference.cache
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.AssemblyInfoInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.AssemblyInfo.cs
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.csproj.CoreCompileInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.dll
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.pdb
+D:\Users\gusta\Desktop\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.genruntimeconfig.cache
